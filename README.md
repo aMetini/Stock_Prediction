@@ -16,13 +16,13 @@ Many investors would like to predict the movement of stock prices in order to ma
 # Data
 Initial data contained data on 2,853 trading days for Ambarella, Inc (AMBA) between 2012-10-11 and 2024-02-15.
 Column Names and descriptions for AMBA Data Set:
-* date - Date that the trading of AMBA took place
-* open price - Price of the house ( prediction target )
-* close price - Close price adjusted for splits
-* high - Highest price sold on the trade date
-* low - Lowest price sold on the trade date
-* Adjusted close - Adjusted close price adjusted for splits and dividend and/or capital gain distributions.
-* volume - Volume of shares sold 
+  * date - Date that the trading of AMBA took place
+  * open price - Price of the house ( prediction target )
+  * close price - Close price adjusted for splits
+  * high - Highest price sold on the trade date
+  * low - Lowest price sold on the trade date
+  * Adjusted close - Adjusted close price adjusted for splits and dividend and/or capital gain distributions.
+  * volume - Volume of shares sold 
 
 * My data source came from Yahoo finance. Prices marked are in USD.
 
