@@ -4,13 +4,13 @@
 Many investors would like to predict the movement of stock prices in order to make informed investment decisions regarding when to buy, sell or hold a stock. Additionally, stock price prediction can help with a portfolio’s risk management by assessing potential stock price movements and implementing strategies to mitigate potential fluctuation risks. Finally, stock price prediction can be invaluable in market analysis/research, allowing investors to understand the financial market, including trends, volatility patterns and other factors that may affect stock prices.
 
 # Solution
-Obtain our data source
-Explore our data source and learn out about it
-Clean our data if necessary
-Visualize our data source
-Create a model–Regression
-Train our model–separating training and test 
-Evaluate our model
+* Obtain our data source
+* Explore our data source and learn out about it
+* Clean our data if necessary
+* Visualize our data source
+* Create a model–Regression
+* Train our model–separating training and test 
+* Evaluate our model
 
 
 # Data
